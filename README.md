@@ -4,10 +4,10 @@ Abalone is an abstract strategy board game designed for two players. The game is
 
 ## Rules
 
-    Players can move their marbles in straight lines or push the opponent's marbles if they have more marbles in the line.
-    A player can move one, two, or three marbles at a time.
-    Diagonal moves are not allowed.
-    The player wins by pushing six or more of the opponent's marbles off the board.
+- Players can move their marbles in straight lines or push the opponent's marbles if they have more marbles in the line.
+- A player can move one, two, or three marbles at a time.
+- Diagonal moves are not allowed.
+- The player wins by pushing six or more of the opponent's marbles off the board.
 
 ## Abalone AI Project
 
