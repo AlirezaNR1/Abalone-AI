@@ -27,5 +27,8 @@ Forward pruning is employed along with the Beam Search algorithm to trim unpromi
 ### Transposition Table
 
 To avoid redundant calculations and repetitions, a transposition table is implemented. This table stores previously evaluated positions, preventing the AI from re-evaluating the same game state.
+### additional functionality 
+
+you can check players steps and move back and forth using up and down arrow keys
 
 Feel free to clone the repository and explore the intricacies of this Abalone AI implementation! If you have any questions or suggestions, don't hesitate to reach out.
